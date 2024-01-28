@@ -8,4 +8,6 @@ function solve()
    else
    var checkage = "you are not eligble for vote";
    document.getElementById("vote").innerHTML = checkage;
+
+   document.getElementById("img1").style = "";
 }
